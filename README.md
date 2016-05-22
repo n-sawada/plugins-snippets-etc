@@ -6,3 +6,7 @@ often use plugins, snippets, etc.
 
 ## Snippets
 ~/Library/Developer/Xcode/UserData/CodeSnippets
+
+## FontsAndColors
+
+~/Library/Developer/Xcode/UserData/FontAndColorThemes
