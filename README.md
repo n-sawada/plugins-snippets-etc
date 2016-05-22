@@ -37,5 +37,7 @@ often use plugins, snippets, etc.
 | ⌘ + i | ビルド後instruments起動 |
 | ⌘ + shift + b | 静的解析 |
 
+## その他要調査
 
+* [設計書をSphinx, Git, SourceTreeで管理する](http://bacchus.ivory.ne.jp/vodka/doc/sphinx-git.html)
 
